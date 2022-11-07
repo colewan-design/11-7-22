@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "v8.1.2",
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
